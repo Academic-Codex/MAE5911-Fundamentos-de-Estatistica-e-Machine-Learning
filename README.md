@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://Academic-Codex.github.io/MAE5911-Fundamentos-de-Estatistica-e-Machine-Learning">
-    <img src=".github/readme/hero.svg?v=2026-01-06T14:34:09.704609Z" width="100%" alt="Access the course website" />
+    <img src=".github/readme/hero.svg?v=2026-01-06T15:38:24.049906Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
